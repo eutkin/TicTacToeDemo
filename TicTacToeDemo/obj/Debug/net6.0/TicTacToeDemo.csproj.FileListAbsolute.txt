@@ -1,0 +1,15 @@
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/bin/Debug/net6.0/TicTacToeDemo
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/bin/Debug/net6.0/TicTacToeDemo.deps.json
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/bin/Debug/net6.0/TicTacToeDemo.runtimeconfig.json
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/bin/Debug/net6.0/TicTacToeDemo.dll
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/bin/Debug/net6.0/TicTacToeDemo.pdb
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.csproj.AssemblyReference.cache
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.AssemblyInfoInputs.cache
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.AssemblyInfo.cs
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.csproj.CoreCompileInputs.cache
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.dll
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/refint/TicTacToeDemo.dll
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.pdb
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/TicTacToeDemo.genruntimeconfig.cache
+/Users/istrokova/RiderProjects/TicTacToeDemo/TicTacToeDemo/obj/Debug/net6.0/ref/TicTacToeDemo.dll
